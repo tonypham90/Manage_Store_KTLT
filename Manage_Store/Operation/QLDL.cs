@@ -1,3 +1,4 @@
+using System.Security.Cryptography.X509Certificates;
 using Manage_Store.DAL;
 using Manage_Store.Entity;
 
@@ -6,7 +7,8 @@ namespace Manage_Store.Operation;
 public class QLDL
 {
 
-    public List<LoaiHang>? DSLH;
+    public List<LoaiHang>? DSLH { get; set; }
+    public List<Sp> DSps { get; set; }
     // Thuat toan lien quan den Loai Hang
     
     public QLDL()
