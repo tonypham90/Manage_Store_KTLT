@@ -1,0 +1,15 @@
+/Manage_Store/Manage_Store.csproj
+/Manage_Store/Properties/
+/Manage_Store/wwwroot/
+/Manage_Store/DAL/
+/Manage_Store/DATA/
+/Manage_Store/Entity/
+/Manage_Store/Pages/
+/Manage_Store/Service/
+/Manage_Store/appsettings.json
+/Manage_Store/appsettings.Development.json
+/Manage_Store/DataImportHistory.json
+/Manage_Store/DataLabel.json
+/Manage_Store/DataSaleHistory.json
+/Manage_Store/DataStore.json
+/Manage_Store/Program.cs

@@ -1,4 +1,5 @@
 using Manage_Store.Entity;
+using Manage_Store.Operation;
 using Newtonsoft.Json;
 
 namespace Manage_Store.DAL;
@@ -11,6 +12,8 @@ public static class DataWorkFlow
     private static readonly FileInfo ImportRecord = new FileInfo("DataImportHistory.json");
     private static FileInfo SaleRecord { get; } = new FileInfo("DataSaleHistory.json");
     private static readonly FileInfo ItemStore = new FileInfo("DataStore.json");
+    private static readonly FileInfo Data = new FileInfo("Data.json");
+    
     
     //space for label
     public static bool AddNewLabel(string? newLabel)
@@ -108,4 +111,26 @@ public static class DataWorkFlow
     //End Import
 
     //Sale record
+    
+    public static QLDL? DataLoad()
+    {
+        var fileReader = new StreamReader(Data.FullName);
+        string Jsonstring = fileReader.ReadToEnd();
+        fileReader.Close();
+        return JsonConvert.DeserializeObject<QLDL>(Jsonstring);
+    }
+
+    
+    public static bool DataSave(QLDL qldl)
+    {
+        if (qldl == null)
+        {
+            return false;
+        }
+        StreamWriter fileWriter = new StreamWriter(Data.FullName);
+        string jsonstring = JsonConvert.SerializeObject(Data);
+        fileWriter.Write(jsonstring);
+        fileWriter.Close();
+        return true;
+    }
 }
