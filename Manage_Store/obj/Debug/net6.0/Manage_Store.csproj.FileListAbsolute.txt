@@ -102,3 +102,14 @@
 /Users/tonypham/Documents/GitHub/Laptrinhhuongdoituong/21880005_DoAn_LTHDT/Manage_Store/Manage_Store/obj/Debug/net6.0/Manage_Store.pdb
 /Users/tonypham/Documents/GitHub/Laptrinhhuongdoituong/21880005_DoAn_LTHDT/Manage_Store/Manage_Store/obj/Debug/net6.0/Manage_Store.genruntimeconfig.cache
 /Users/tonypham/Documents/GitHub/Laptrinhhuongdoituong/21880005_DoAn_LTHDT/Manage_Store/Manage_Store/obj/Debug/net6.0/ref/Manage_Store.dll
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.csproj.AssemblyReference.cache
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.AssemblyInfoInputs.cache
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.AssemblyInfo.cs
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.csproj.CoreCompileInputs.cache
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.MvcApplicationPartsAssemblyInfo.cache
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.RazorAssemblyInfo.cache
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.RazorAssemblyInfo.cs
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.dll
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/refint/Manage_Store.dll
+/Users/tonypham/Library/CloudStorage/OneDrive-VNU-HCMUS/HK5/Chuyen de to chuc du lieu/Github/Manage_Store_KTLT/Manage_Store/obj/Debug/net6.0/Manage_Store.pdb
